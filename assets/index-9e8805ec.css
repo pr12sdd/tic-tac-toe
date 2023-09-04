@@ -1,0 +1,1 @@
+:root{--Prakash: pink}body{display:flex;justify-content:center}.card{border:1px solid black;height:120px;width:120px;display:flex;align-items:center;justify-content:center;border-radius:20px;background-color:var(--Prakash)}.Grid{display:flex;height:400px;width:400px;flex-wrap:wrap;justify-content:space-between}.highlight{color:#fff}
