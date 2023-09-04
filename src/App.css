@@ -1,0 +1,7 @@
+:root{
+  --Prakash: pink;
+}
+body{
+  display: flex;
+  justify-content: center;
+}
